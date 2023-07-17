@@ -441,11 +441,6 @@ button.lookFilled-yCfaCM {
     left: -58px;
 }
 
-.groupStart-3Mlgv1.mentioned-Tre-dv .contents-2MsGLg,
-.mentioned-Tre-dv:not(.groupStart-3Mlgv1) .contents-2MsGLg > .markup-eYLPri:not(:empty, .searchResultsWrap-5RVOkx *) {
-    background-color: #615f45;
-}
-
 .groupStart-3Mlgv1.cozy-VmLDNB[data-is-author-self="true"] .contents-2MsGLg,
 .cozy-VmLDNB:not(.groupStart-3Mlgv1)[data-is-author-self="true"] .contents-2MsGLg > .markup-eYLPri:not(:empty, .searchResultsWrap-5RVOkx *) {
     background-color: var(--brand-experiment-30a);
