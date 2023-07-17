@@ -441,6 +441,10 @@ button.lookFilled-yCfaCM {
     left: -58px;
 }
 
+.theme-dark {
+    info-warning-foreground: #442266 !important;
+}
+
 .groupStart-3Mlgv1.cozy-VmLDNB[data-is-author-self="true"] .contents-2MsGLg,
 .cozy-VmLDNB:not(.groupStart-3Mlgv1)[data-is-author-self="true"] .contents-2MsGLg > .markup-eYLPri:not(:empty, .searchResultsWrap-5RVOkx *) {
     background-color: var(--brand-experiment-30a);
