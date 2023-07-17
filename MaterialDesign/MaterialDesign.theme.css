@@ -18,7 +18,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Source Code Pro:wght@550&display=swap");
 
 /* Source */
-@import url("https://thecommieaxolotl.github.io/BetterDiscord-Stuff/MaterialDesign/Clients/betterdiscord.css");
+@import url("https://github.com/gustavolegal/BetterDiscord-Stuff/blob/main/MaterialDesign/MaterialDesign.css");
+@import url("https://thecommieaxolotl.github.io/BetterDiscord-Stuff/MaterialDesign/Modules/Clients/BetterDiscord.css");
 
 :root {
     --font-primary: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
